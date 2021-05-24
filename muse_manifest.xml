@@ -1,0 +1,533 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Royal Gaming.com" resolutions="1x" timestamp="1539861223821">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3973114722" ref="sub-and-feedback:videos:events:references:about-us:upcominggames:sponsors:news:gaminggear:esports:index:contact-us"/>
+    <file name="sub-and-feedback.css" crc="443378964" ref="sub-and-feedback"/>
+    <file name="videos.css" crc="322593658" ref="videos"/>
+    <file name="events.css" crc="197305458" ref="events"/>
+    <file name="references.css" crc="530096256" ref="references"/>
+    <file name="about-us.css" crc="4294728082" ref="about-us"/>
+    <file name="upcominggames.css" crc="3859731725" ref="upcominggames"/>
+    <file name="sponsors.css" crc="42209666" ref="sponsors"/>
+    <file name="news.css" crc="4160568482" ref="news"/>
+    <file name="gaminggear.css" crc="18145717" ref="gaminggear"/>
+    <file name="esports.css" crc="3909360883" ref="esports"/>
+    <file name="index.css" crc="4165576095" ref="index"/>
+    <file name="contact-us.css" crc="4172903250" ref="contact-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:events:sponsors:esports:videos:upcominggames:gaminggear:sub-and-feedback:about-us:news:contact-us:references"/>
+    <file name="museutils.js" crc="340535759" ref="index:events:sponsors:esports:videos:upcominggames:gaminggear:sub-and-feedback:about-us:news:contact-us:references"/>
+    <file name="whatinput.js" crc="86476730" ref="index:events:sponsors:esports:videos:upcominggames:gaminggear:sub-and-feedback:about-us:news:contact-us:references"/>
+    <file name="museconfig.js" crc="310584261" ref="index:events:sponsors:esports:videos:upcominggames:gaminggear:sub-and-feedback:about-us:news:contact-us:references"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:events:sponsors:esports:videos:upcominggames:gaminggear:sub-and-feedback:about-us:news:contact-us:references"/>
+    <file name="webpro.js" crc="4059564322" ref="index:events:esports:sub-and-feedback:news:contact-us"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:events:esports:news"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:events:esports:news"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:events:esports:news"/>
+    <file name="require.js" crc="7928878" ref="index:events:sponsors:esports:videos:upcominggames:gaminggear:sub-and-feedback:about-us:news:contact-us:references"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="events"/>
+    <file name="form_check.php" crc="4020933626" ref="events"/>
+    <file name="form_throttle.php" crc="4259590256" ref="events"/>
+    <file name="form_process.php" crc="37464564" ref="events"/>
+    <file name="form-u6812.php" crc="3831059929" ref="events"/>
+    <file name="form-u1536.php" crc="323780654" ref="sub-and-feedback"/>
+    <file name="form-u1754.php" crc="262559271" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="logo2-crop-u338.png" crc="4075324970" seo="true" ref="index:events:sponsors:esports:videos:upcominggames:gaminggear:sub-and-feedback:about-us:news:contact-us:references">
+      <caption webpage="news" alt=""/>
+      <caption webpage="upcominggames" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sub-and-feedback" alt=""/>
+      <caption webpage="esports" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="gaminggear" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="references" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:events:esports:news"/>
+    <file name="sponsor1.jpg" crc="87730625" seo="true" ref="index:events:esports:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor2.jpg" crc="3887058474" seo="true" ref="index:events:esports:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor3.jpg" crc="4289431109" seo="true" ref="index:events:esports:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor4.jpg" crc="275642434" seo="true" ref="index:events:esports:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor5.jpg" crc="155724523" seo="true" ref="index:events:esports:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor6.jpg" crc="4075162459" seo="true" ref="index:events:esports:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor7.jpg" crc="291691288" seo="true" ref="index:events:esports:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor8.jpg" crc="4146280638" seo="true" ref="index:events:esports:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor9.jpg" crc="4017224513" seo="true" ref="index:events:esports:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor10.jpg" crc="4212203621" seo="true" ref="index:events:esports:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor11.jpg" crc="448501074" seo="true" ref="index:events:esports:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor12.jpg" crc="4249799246" seo="true" ref="index:events:esports:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor13.jpg" crc="122106407" seo="true" ref="index:events:esports:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor14.jpg" crc="524224784" seo="true" ref="index:events:esports:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor15.jpg" crc="3900997809" seo="true" ref="index:events:esports:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor16.jpg" crc="4120980663" seo="true" ref="index:events:esports:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor17.jpg" crc="4070099386" seo="true" ref="index:events:esports:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor18.jpg" crc="468916400" seo="true" ref="index:events:esports:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor19.jpg" crc="4276587630" seo="true" ref="index:events:esports:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor20.jpg" crc="3758758948" seo="true" ref="index:events:esports:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:events:esports:news"/>
+    <file name="bf5-crop-u5009.jpg" crc="4069892351" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="starlink-battle-for-atlas-crop-u3955.jpg" crc="401976259" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red dead 2-crop-u5002.jpg" crc="3929498026" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c19fdd3f-b9a2-4f95-9c1a-3bbb8e37ddbb.jpg" crc="10386263" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="destiny-2.jpg" crc="229316416" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="destiny-2-dlc.jpg" crc="138262435" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="junkensteins-revenge-junkrat-roadhogjpgoptimal.jpg" crc="3880001431" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jvjrjhefjcdk3ltpdnttzl.jpg" crc="4115410654" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maxresdefault.jpg" crc="289391166" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="overwatch-esports-jerseys.jpg" crc="3870839848" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="overwatch-halloween-2018_feature.jpg" crc="4092899900" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="overwatch-offense.jpg" crc="425565388" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo-0-1511857172670.png" crc="3806057455" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sponsor6-crop-u4972.png" crc="97558157" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sponsor5-crop-u4974.png" crc="3912718710" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sponsor19-crop-u5062.png" crc="305333583" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo3-crop-u348.png" crc="3840652183" seo="true" ref="index:events:sponsors:esports:videos:upcominggames:gaminggear:sub-and-feedback:about-us:news:contact-us:references">
+      <caption webpage="news" alt=""/>
+      <caption webpage="upcominggames" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sub-and-feedback" alt=""/>
+      <caption webpage="esports" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="gaminggear" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="references" alt=""/>
+    </file>
+    <file name="sponsor8-crop-u6421.png" crc="296066467" seo="true" ref="events">
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="sponsor9-crop-u6423.png" crc="4093843523" seo="true" ref="events">
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="sponsor10-crop-u6427.png" crc="3852600569" seo="true" ref="events">
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="sponsor21-crop-u6425.png" crc="4218433661" seo="true" ref="events">
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="sponsor12-crop-u2161.png" crc="4087543695" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor7-crop-u2111.png" crc="493006020" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor6-crop-u2104.png" crc="3904907056" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor16-crop-u2211.png" crc="4199773713" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor15-crop-u2146.png" crc="48153693" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor5-crop-u2071.png" crc="147051733" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor19-crop-u2232.png" crc="33677592" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor8-crop-u2118.png" crc="4285891746" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor10-crop-u2096.png" crc="56677332" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor18-crop-u2225.png" crc="3963179681" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor9-crop-u2125.png" crc="4182426600" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor21-crop-u2204.png" crc="4163347251" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor14-crop-u2175.png" crc="83702978" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor11-crop-u2154.png" crc="44218525" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor1-crop-u1843.png" crc="122926858" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor20-crop-u2196.png" crc="63874782" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor17-crop-u2218.png" crc="87789336" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor3-crop-u2056.png" crc="4172688136" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor13-crop-u2168.png" crc="4236028224" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor4-crop-u2064.png" crc="3956078252" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor2-crop-u2078.png" crc="3955680012" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="sponsor8-crop-u5518.png" crc="296066467" seo="true" ref="esports">
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor9-crop-u5525.png" crc="4093843523" seo="true" ref="esports">
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor10-crop-u5539.png" crc="3852600569" seo="true" ref="esports">
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor21-crop-u5532.png" crc="4218433661" seo="true" ref="esports">
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor18-crop-u5552.png" crc="3827741306" seo="true" ref="esports">
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor1-crop-u5559.png" crc="4116981890" seo="true" ref="esports">
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor19-crop-u5566.png" crc="305333583" seo="true" ref="esports">
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor11-crop-u5573.png" crc="3811711275" seo="true" ref="esports">
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor14-crop-u5580.png" crc="90819989" seo="true" ref="esports">
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor6-crop-u5587.png" crc="97558157" seo="true" ref="esports">
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor18-crop-u5227.png" crc="3827741306" seo="true" ref="esports">
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor21-crop-u5220.png" crc="4218433661" seo="true" ref="esports">
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="sponsor6-crop-u5225.png" crc="4267314760" seo="true" ref="esports">
+      <caption webpage="esports" alt=""/>
+    </file>
+    <file name="starlink-battle-for-atlas-crop-u2277.jpg" crc="401976259" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="soulcalibur vi-crop-u2289.jpg" crc="4258558057" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="red dead 2-crop-u2286.jpg" crc="409359556" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="walking dead-crop-u2280.jpg" crc="312224035" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="call-of-cthulhu-crop-u2283.jpg" crc="3882520063" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="just dance 2019-crop-u2292.jpg" crc="181818471" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="220px-hitman_2_(2018)-crop-u2295.jpg" crc="358682006" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="spyro-crop-u2298.jpg" crc="448595636" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="fallour76-crop-u2313.jpg" crc="3939976051" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="fallour76-crop-u2493.jpg" crc="3939976051" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="bf5-crop-u2490.jpg" crc="4069892351" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="darksiders-iii-crop-u2487.jpg" crc="3916185956" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="ssb ultimate-crop-u2496.jpg" crc="319673785" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="u2364-4.png" crc="3979993847" ref="upcominggames"/>
+    <file name="220px-cover_art_of_trials_rising-crop-u2323.jpg" crc="531465494" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="biomutant-crop-u2327.jpg" crc="68796799" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="s-b-crop-u2326.jpg" crc="3934144278" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="resident evil 2-crop-u2324.jpg" crc="26304969" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="crack down 3-crop-u2325.jpg" crc="3917938709" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="jump-force-xbox-e3-893x507jpgoptimal-crop-u2328.jpg" crc="267258295" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="sq_nswitch_daemonxmachina-crop-u2329.jpg" crc="194955553" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="gears-crop-u2330.jpg" crc="297031898" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="star wars-crop-u2331.jpg" crc="4238584753" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="wolfenstein-youngblood-generic_pc_frontcover-1200x1476-crop-u2332.jpg" crc="4064506833" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="kingdom-hearts-iii-crop-u2333.jpg" crc="72441537" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="220px-ori_and_the_will_of_the_wisps-crop-u2334.jpg" crc="3959054565" seo="true" ref="upcominggames">
+      <caption webpage="upcominggames" alt=""/>
+    </file>
+    <file name="u2370-4.png" crc="4156964031" ref="upcominggames"/>
+    <file name="screenshot_1-crop-u2836.jpg" crc="262807696" seo="true" ref="gaminggear">
+      <caption webpage="gaminggear" alt=""/>
+    </file>
+    <file name="screenshot_29-crop-u2829.jpg" crc="3856651608" seo="true" ref="gaminggear">
+      <caption webpage="gaminggear" alt=""/>
+    </file>
+    <file name="screenshot_2-crop-u2822.jpg" crc="457039998" seo="true" ref="gaminggear">
+      <caption webpage="gaminggear" alt=""/>
+    </file>
+    <file name="screenshot_3-crop-u2815.jpg" crc="4033126560" seo="true" ref="gaminggear">
+      <caption webpage="gaminggear" alt=""/>
+    </file>
+    <file name="screenshot_4-crop-u2808.jpg" crc="4186180807" seo="true" ref="gaminggear">
+      <caption webpage="gaminggear" alt=""/>
+    </file>
+    <file name="screenshot_5-crop-u2801.jpg" crc="104730221" seo="true" ref="gaminggear">
+      <caption webpage="gaminggear" alt=""/>
+    </file>
+    <file name="screenshot_6-crop-u2794.jpg" crc="407254657" seo="true" ref="gaminggear">
+      <caption webpage="gaminggear" alt=""/>
+    </file>
+    <file name="screenshot_7-crop-u2883.jpg" crc="289649675" seo="true" ref="gaminggear">
+      <caption webpage="gaminggear" alt=""/>
+    </file>
+    <file name="screenshot_10-crop-u2938.jpg" crc="3781121305" seo="true" ref="gaminggear">
+      <caption webpage="gaminggear" alt=""/>
+    </file>
+    <file name="screenshot_8-crop-u2942.jpg" crc="201299510" seo="true" ref="gaminggear">
+      <caption webpage="gaminggear" alt=""/>
+    </file>
+    <file name="screenshot_12-crop-u3006.jpg" crc="4212689106" seo="true" ref="gaminggear">
+      <caption webpage="gaminggear" alt=""/>
+    </file>
+    <file name="screenshot_11-crop-u2936.jpg" crc="4048559421" seo="true" ref="gaminggear">
+      <caption webpage="gaminggear" alt=""/>
+    </file>
+    <file name="screenshot_9-crop-u2940.jpg" crc="457074003" seo="true" ref="gaminggear">
+      <caption webpage="gaminggear" alt=""/>
+    </file>
+    <file name="screenshot_13-crop-u3004.jpg" crc="495592478" seo="true" ref="gaminggear">
+      <caption webpage="gaminggear" alt=""/>
+    </file>
+    <file name="screenshot_18-crop-u3057.jpg" crc="221027081" seo="true" ref="gaminggear">
+      <caption webpage="gaminggear" alt=""/>
+    </file>
+    <file name="screenshot_17-crop-u3055.jpg" crc="4289174167" seo="true" ref="gaminggear">
+      <caption webpage="gaminggear" alt=""/>
+    </file>
+    <file name="screenshot_16-crop-u3047.jpg" crc="7151408" seo="true" ref="gaminggear">
+      <caption webpage="gaminggear" alt=""/>
+    </file>
+    <file name="screenshot_15-crop-u3051.jpg" crc="3941187078" seo="true" ref="gaminggear">
+      <caption webpage="gaminggear" alt=""/>
+    </file>
+    <file name="screenshot_14-crop-u3053.jpg" crc="245929949" seo="true" ref="gaminggear">
+      <caption webpage="gaminggear" alt=""/>
+    </file>
+    <file name="screenshot_6-crop-u5865.jpg" crc="407254657" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="sponsor3-crop-u5870.png" crc="252407939" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="sponsor7-crop-u5872.png" crc="291200817" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="screenshot_2-crop-u6157.jpg" crc="457039998" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="screenshot_1-crop-u6162.jpg" crc="81527069" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="220px-ori_and_the_will_of_the_wisps-crop-u6164.jpg" crc="3959054565" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="logo3-crop-u6258.png" crc="234210530" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="logo3-crop-u6271.png" crc="234210530" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="logo3-crop-u6278.png" crc="234210530" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="logo3-crop-u6285.png" crc="234210530" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="logo3-crop-u6292.png" crc="234210530" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="logo3-crop-u6299.png" crc="234210530" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3964895699" seo="true" mt="1539861172111" redirect="true"/>
+  <file name="events.html" crc="223941426" seo="true" mt="1539861172111" redirect="true"/>
+  <file name="sponsors.html" crc="531944844" seo="true" mt="1539861172111" redirect="true"/>
+  <file name="esports.html" crc="3968324854" seo="true" mt="1539861172111" redirect="true"/>
+  <file name="videos.html" crc="3956482139" seo="true" mt="1539861172111" redirect="true"/>
+  <file name="upcominggames.html" crc="362228894" seo="true" mt="1539861172111" redirect="true"/>
+  <file name="gaminggear.html" crc="3886832312" seo="true" mt="1539861172111" redirect="true"/>
+  <file name="sub-and-feedback.html" crc="530781335" seo="true" mt="1539861172111" redirect="true"/>
+  <file name="about-us.html" crc="332044126" seo="true" mt="1539861172111" redirect="true"/>
+  <file name="news.html" crc="4187580486" seo="true" mt="1539861172111" redirect="true"/>
+  <file name="contact-us.html" crc="4284493702" seo="true" mt="1539861172111" redirect="true"/>
+  <file name="references.html" crc="3988761111" seo="true" mt="1539861172111" redirect="true"/>
+</manifest>
